@@ -5,3 +5,4 @@ print("hello world")
 
 import os
 print(dir(os))
+print(os.environ)
