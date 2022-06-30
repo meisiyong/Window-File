@@ -16,3 +16,4 @@ def moving_average(iterable,n=3):
 l = [10,20,18,27,15]
 for average in moving_average(l):
   print(average)
+
